@@ -8,7 +8,7 @@ LazilyInitializedFields = "0e77f7df-68c5-4e49-93ce-4cd80f5598bf"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
 [compat]
-julia = "1"
+julia = "1.6"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
