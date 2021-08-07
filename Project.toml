@@ -3,6 +3,10 @@ uuid = "7771acb3-bd87-4d1b-b714-69a46162fa2f"
 authors = ["AbdulrhmnGhanem <abdoghanem160@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+LazilyInitializedFields = "0e77f7df-68c5-4e49-93ce-4cd80f5598bf"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
 [compat]
 julia = "1"
 
