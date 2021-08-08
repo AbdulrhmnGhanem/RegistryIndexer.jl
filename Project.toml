@@ -6,6 +6,7 @@ version = "0.1.0"
 [deps]
 LazilyInitializedFields = "0e77f7df-68c5-4e49-93ce-4cd80f5598bf"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+Tar = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
 
 [compat]
 LazilyInitializedFields = "1"
